@@ -1,0 +1,14 @@
+*{
+    font-family: "Dancing Script";
+    
+}
+.nome-turma{
+    color: blueviolet;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 25px;
+}
+.text{
+    color: rgb(21, 16, 105);
+    text-align: center;
+}
